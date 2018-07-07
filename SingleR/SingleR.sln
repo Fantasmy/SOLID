@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleR", "SingleR\SingleR.csproj", "{6EBE91F5-2F05-405D-A892-421C05BF8CFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleROk", "SingleROk\SingleROk.csproj", "{B1BE9C81-5362-402B-A20C-BF824CC89F16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EBE91F5-2F05-405D-A892-421C05BF8CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBE91F5-2F05-405D-A892-421C05BF8CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EBE91F5-2F05-405D-A892-421C05BF8CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBE91F5-2F05-405D-A892-421C05BF8CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1BE9C81-5362-402B-A20C-BF824CC89F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1BE9C81-5362-402B-A20C-BF824CC89F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1BE9C81-5362-402B-A20C-BF824CC89F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1BE9C81-5362-402B-A20C-BF824CC89F16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A1753DC-32F2-41EC-BA3B-242B5FFF07D8}
+	EndGlobalSection
+EndGlobal
